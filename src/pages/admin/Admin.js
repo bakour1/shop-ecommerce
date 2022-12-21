@@ -3,7 +3,7 @@ import styles from './Admin.module.scss';
 
 const Admin = () => {
   return (
-    <div>Admin</div>
+    <div className={ styles.admin }>Admin</div>
   );
 };
 
